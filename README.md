@@ -1,0 +1,165 @@
+🎀 Projeto de Conscientização – Outubro Rosa
+
+---
+
+
+💡 Sobre o Projeto
+
+O Outubro Rosa é um movimento mundial de conscientização que tem como objetivo alertar a sociedade sobre a importância da prevenção e do diagnóstico precoce do câncer de mama.
+A campanha busca incentivar o cuidado com a saúde feminina e promover a realização de exames regulares, salvando vidas através da informação e da prevenção.
+
+Este projeto foi desenvolvido como parte de uma atividade educacional com o intuito de combinar tecnologia, design e responsabilidade social. O site criado tem como propósito disseminar informações sobre o tema, utilizando uma estrutura moderna, leve e totalmente construída com Bootstrap 5.3, sem o uso de CSS externo.
+
+O desenvolvimento foi realizado no Visual Studio Code (VS Code), priorizando a organização, a clareza e as boas práticas de codificação.
+
+---
+
+
+🧩 Tecnologias Utilizadas
+
+HTML5 → Estruturação semântica e base do conteúdo.
+
+Bootstrap 5.3 → Framework principal para layout, estilo e componentes responsivos.
+
+Bootstrap Icons → Ícones leves e modernos que reforçam a identidade visual.
+
+JavaScript (Bootstrap Bundle) → Interatividade para componentes como carrosséis e accordions.
+
+Visual Studio Code (VS Code) → Ambiente de desenvolvimento utilizado na criação do projeto.
+
+---
+
+🌐 Estrutura do Site
+
+O site foi planejado para proporcionar uma experiência agradável e informativa, explorando componentes do Bootstrap de forma criativa e eficiente.
+
+---
+
+🏠 Cabeçalho
+
+Logo e título da campanha “Outubro Rosa”.
+
+Navbar responsiva para facilitar a navegação.
+
+Identidade visual marcada pela cor rosa (#d23272), símbolo da campanha.
+
+---
+
+ℹ️ Seção Informativa
+
+Texto educativo explicando a origem e importância do movimento.
+
+Informações sobre prevenção, diagnóstico e dados estatísticos atualizados.
+
+Estrutura organizada em containers e rows, mantendo o equilíbrio visual e o fluxo de leitura.
+
+---
+
+🪞 Seção Interativa e Visual
+
+Cards: com dicas de saúde, mensagens de apoio e curiosidades sobre o tema.
+
+Accordion: com perguntas e respostas frequentes, facilitando o acesso às informações.
+
+Carousel: com imagens, frases inspiradoras e elementos visuais da campanha Outubro Rosa.
+
+---
+
+💬 Depoimentos
+
+Espaço voltado para histórias inspiradoras, mensagens de empatia e superação.
+
+Reforça a importância do apoio psicológico e emocional durante o tratamento.
+
+---
+
+📞 Rodapé
+
+Seção com informações de contato, redes sociais e links úteis.
+
+Ícones do Bootstrap Icons para redes sociais e meios de comunicação.
+
+Frase de encerramento destacando o propósito de conscientização da campanha.
+
+---
+
+🎨 Design e Estilo
+
+O design do site foi inspirado nos valores do Outubro Rosa — força, esperança e empatia.
+
+Paleta de cores: tons de rosa, branco e cinza suave, representando carinho e cuidado.
+
+Tipografia: classes nativas do Bootstrap, garantindo harmonia e boa legibilidade.
+
+Layout responsivo: adaptado automaticamente para diferentes tamanhos de tela.
+
+Componentes reutilizáveis: estrutura modular que facilita a manutenção e a expansão do site.
+
+---
+
+🔧 Boas Práticas e Organização do Código
+
+Código limpo, comentado e devidamente identado.
+
+Separação lógica das seções e uso adequado dos containers Bootstrap.
+
+Importação correta do Bootstrap via CDN, garantindo carregamento rápido e seguro.
+
+Uso exclusivo de componentes nativos do Bootstrap, sem adição de CSS externo.
+
+---
+
+📊 Objetivo Educacional e Social
+
+O projeto foi desenvolvido com foco em educação, conscientização e impacto social, mostrando como a tecnologia pode ser usada para fins humanitários.
+
+Os principais objetivos incluem:
+
+Divulgar informações sobre prevenção e diagnóstico precoce do câncer de mama.
+
+Estimular o autocuidado e o acompanhamento médico regular.
+
+Demonstrar o uso prático do Bootstrap em um projeto real.
+
+Incentivar a criatividade e o uso responsável da tecnologia.
+
+---
+
+📸👀 Pré-visualização
+
+<img width="944" height="430" alt="image" src="https://github.com/user-attachments/assets/5807bb17-de16-42d6-b850-8bd6049f377f" />
+
+---
+<img width="948" height="419" alt="image" src="https://github.com/user-attachments/assets/06fb1a55-710f-401c-8828-f0a1ae6b27bb" />
+
+---
+
+<img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/c54fc3af-b039-4a0c-baaa-ed4d141987aa" />
+
+
+---
+
+💬 Conclusão
+
+O Site Outubro Rosa é uma combinação de design, empatia e tecnologia, criado para informar e inspirar.
+Através do uso exclusivo do Bootstrap, foi possível desenvolver um site simples, elegante e funcional, que reforça a importância da prevenção e do cuidado com a saúde.
+
+---
+
+💖 “A prevenção é um ato de amor. Cuide-se e incentive outras mulheres a fazer o mesmo.”
+
+---
+
+✨ Créditos
+
+Autora: Paolla Paula Veronez
+
+Instituição: Senia A. Jacob Lafer
+
+Professor orientador: Raul Porto Lopes
+
+Ferramentas: Bootstrap 5.3 + VS Code
+
+Tema: Conscientização sobre o Outubro Rosa
+
+Ano: 2025
