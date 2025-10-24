@@ -127,14 +127,14 @@ Incentivar a criatividade e o uso responsável da tecnologia.
 
 📸👀 Pré-visualização
 
-<img width="944" height="430" alt="image" src="https://github.com/user-attachments/assets/5807bb17-de16-42d6-b850-8bd6049f377f" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5807bb17-de16-42d6-b850-8bd6049f377f" />
 
 ---
-<img width="948" height="419" alt="image" src="https://github.com/user-attachments/assets/06fb1a55-710f-401c-8828-f0a1ae6b27bb" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/06fb1a55-710f-401c-8828-f0a1ae6b27bb" />
 
 ---
 
-<img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/c54fc3af-b039-4a0c-baaa-ed4d141987aa" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c54fc3af-b039-4a0c-baaa-ed4d141987aa" />
 
 
 ---
